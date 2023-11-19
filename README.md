@@ -1,4 +1,4 @@
-# Samurai Blue Stars
+# SAMURAI Blue Stars
 
 ### ■ サービス概要
 欧州5大リーグで活躍する日本人サッカー選手の情報とハイライトを提供するアプリです。  
